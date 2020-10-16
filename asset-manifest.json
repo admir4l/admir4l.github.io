@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/admir4l.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/admir4l.github.io/static/js/main.4d618b2f.chunk.js",
+    "main.js.map": "/admir4l.github.io/static/js/main.4d618b2f.chunk.js.map",
+    "runtime-main.js": "/admir4l.github.io/static/js/runtime-main.0ec872aa.js",
+    "runtime-main.js.map": "/admir4l.github.io/static/js/runtime-main.0ec872aa.js.map",
+    "static/js/2.9e7789ca.chunk.js": "/admir4l.github.io/static/js/2.9e7789ca.chunk.js",
+    "static/js/2.9e7789ca.chunk.js.map": "/admir4l.github.io/static/js/2.9e7789ca.chunk.js.map",
+    "index.html": "/admir4l.github.io/index.html",
+    "precache-manifest.1dda0427ddddfbb3629144f3631ac632.js": "/admir4l.github.io/precache-manifest.1dda0427ddddfbb3629144f3631ac632.js",
+    "service-worker.js": "/admir4l.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/admir4l.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9e7789ca.chunk.js.LICENSE.txt": "/admir4l.github.io/static/js/2.9e7789ca.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/admir4l.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ec872aa.js",
+    "static/js/2.9e7789ca.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4d618b2f.chunk.js"
+  ]
+}
